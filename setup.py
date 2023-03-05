@@ -11,7 +11,7 @@ setup(
     rust_extensions=[RustExtension(
         ".hello_world_rs.hello_world_rs",
         path="Cargo.toml", binding=Binding.PyO3)],
-    packages=["hello_world_rsgit "],
+    packages=["hello_world_rs"],
     classifiers=[
             "License :: OSI Approved :: MIT License",
             "Development Status :: 3 - Alpha",
