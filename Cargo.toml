@@ -12,5 +12,5 @@ version = "0.13.2"
 features = ["extension_module"]
 
 [lib]
-name = "flitton_fib_rs"
+name = "helllo_world_rs"
 crate-type = ["rlib", "cdylib"]
